@@ -44,12 +44,12 @@
 ### 🔹 WeatherBot 🌤
 Telegram-бот / погода по городам  
 **Стек:** Python, python-telegram-bot, requests, API OpenWeatherMap  
-🔗 [Ссылка на репозиторий](https://github.com/username/Weather-bot)
+🔗 [Ссылка на репозиторий](https://github.com/oximer10/Weather-bot)
 
 ### 🔹 CurrencyBot 💱
 Telegram-бот / конвертация валют  
 **Стек:** Python, python-telegram-bot, requests, API Exchange Rates  
-🔗 [Ссылка на репозиторий](https://github.com/username/currency-bot)
+🔗 [Ссылка на репозиторий](https://github.com/oximer10/currency-bot)
 
 
 ---
