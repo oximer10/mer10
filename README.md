@@ -61,5 +61,5 @@ Telegram-бот / конвертация валют
 
 ## 📫 Контакты
 - ✉️ Email: baktigalimerhat@gmail.com
-- 💬 Telegram: @mer10
+- 💬 Telegram: @oximer10
 - 🌐 Portfolio: скоро 😉
