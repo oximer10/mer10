@@ -28,13 +28,29 @@
 ## 📂 Проекты
 ### 🔹 TravelWise Planner
 Планировщик путешествий «всё в одном»  
-**Стек:** Python, Django, HTML, CSS  
-🔗 [Ссылка на репозиторий](https://github.com/oximer10/TravelWise-Planner)
+**Стек:** Python, TelegramAPI
+🔗 [Ссылка на репозиторий](https://github.com/oximer10/TravelWise)
 
 ### 🔹 Dino Project 🦖
-Учебный проект / игра / сайт  
+Учебный проект / игра  
 **Стек:**   PyGame, OOP
 🔗 [Ссылка на репозиторий](https://github.com/oximer10/Dino)
+
+### 🔹 Blog 
+Учебный проект /  сайт  
+**Стек:**   Python, Django , HTML/CSS
+🔗 [Ссылка на репозиторий](https://github.com/oximer10/Blog)
+
+### 🔹 WeatherBot 🌤
+Telegram-бот / погода по городам  
+**Стек:** Python, python-telegram-bot, requests, API OpenWeatherMap  
+🔗 [Ссылка на репозиторий](https://github.com/username/Weather-bot)
+
+### 🔹 CurrencyBot 💱
+Telegram-бот / конвертация валют  
+**Стек:** Python, python-telegram-bot, requests, API Exchange Rates  
+🔗 [Ссылка на репозиторий](https://github.com/username/currency-bot)
+
 
 ---
 
@@ -42,3 +58,8 @@
 - 🧑‍💻 Учебные и командные проекты
 - 🏆 Участие в олимпиадах / хакатонах
 - 📚 Самообучение и практика
+
+## 📫 Контакты
+- ✉️ Email: baktigalimerhat@gmail.com
+- 💬 Telegram: @mer10
+- 🌐 Portfolio: скоро 😉
